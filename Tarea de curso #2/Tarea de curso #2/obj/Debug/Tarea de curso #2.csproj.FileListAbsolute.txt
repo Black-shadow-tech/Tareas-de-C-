@@ -1,0 +1,14 @@
+C:\Users\RAN\Documents\Tareas del curso\Tarea de curso #2\Tarea de curso #2\bin\Debug\Tarea de curso #2.exe.config
+C:\Users\RAN\Documents\Tareas del curso\Tarea de curso #2\Tarea de curso #2\bin\Debug\Tarea de curso #2.exe
+C:\Users\RAN\Documents\Tareas del curso\Tarea de curso #2\Tarea de curso #2\bin\Debug\Tarea de curso #2.pdb
+C:\Users\RAN\Documents\Tareas del curso\Tarea de curso #2\Tarea de curso #2\obj\Debug\Tarea de curso #2.csproj.AssemblyReference.cache
+C:\Users\RAN\Documents\Tareas del curso\Tarea de curso #2\Tarea de curso #2\obj\Debug\Tarea de curso #2.csproj.CoreCompileInputs.cache
+C:\Users\RAN\Documents\Tareas del curso\Tarea de curso #2\Tarea de curso #2\obj\Debug\Tarea de curso #2.exe
+C:\Users\RAN\Documents\Tareas del curso\Tarea de curso #2\Tarea de curso #2\obj\Debug\Tarea de curso #2.pdb
+C:\Users\RAN\Documents\Tareas del curso\videos\Tarea de curso #2\Tarea de curso #2\bin\Debug\Tarea de curso #2.exe.config
+C:\Users\RAN\Documents\Tareas del curso\videos\Tarea de curso #2\Tarea de curso #2\bin\Debug\Tarea de curso #2.exe
+C:\Users\RAN\Documents\Tareas del curso\videos\Tarea de curso #2\Tarea de curso #2\bin\Debug\Tarea de curso #2.pdb
+C:\Users\RAN\Documents\Tareas del curso\videos\Tarea de curso #2\Tarea de curso #2\obj\Debug\Tarea de curso #2.csproj.AssemblyReference.cache
+C:\Users\RAN\Documents\Tareas del curso\videos\Tarea de curso #2\Tarea de curso #2\obj\Debug\Tarea de curso #2.csproj.CoreCompileInputs.cache
+C:\Users\RAN\Documents\Tareas del curso\videos\Tarea de curso #2\Tarea de curso #2\obj\Debug\Tarea de curso #2.exe
+C:\Users\RAN\Documents\Tareas del curso\videos\Tarea de curso #2\Tarea de curso #2\obj\Debug\Tarea de curso #2.pdb
