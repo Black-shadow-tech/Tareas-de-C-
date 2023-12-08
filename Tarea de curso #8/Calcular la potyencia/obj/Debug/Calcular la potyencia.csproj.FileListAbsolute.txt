@@ -1,0 +1,7 @@
+C:\Users\RAN\Desktop\C#\Tareas\Calcular la potyencia\Calcular la potyencia\bin\Debug\Calcular la potyencia.exe.config
+C:\Users\RAN\Desktop\C#\Tareas\Calcular la potyencia\Calcular la potyencia\bin\Debug\Calcular la potyencia.exe
+C:\Users\RAN\Desktop\C#\Tareas\Calcular la potyencia\Calcular la potyencia\bin\Debug\Calcular la potyencia.pdb
+C:\Users\RAN\Desktop\C#\Tareas\Calcular la potyencia\Calcular la potyencia\obj\Debug\Calcular la potyencia.csproj.AssemblyReference.cache
+C:\Users\RAN\Desktop\C#\Tareas\Calcular la potyencia\Calcular la potyencia\obj\Debug\Calcular la potyencia.csproj.CoreCompileInputs.cache
+C:\Users\RAN\Desktop\C#\Tareas\Calcular la potyencia\Calcular la potyencia\obj\Debug\Calcular la potyencia.exe
+C:\Users\RAN\Desktop\C#\Tareas\Calcular la potyencia\Calcular la potyencia\obj\Debug\Calcular la potyencia.pdb

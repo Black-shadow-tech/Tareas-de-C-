@@ -1,0 +1,7 @@
+C:\Users\RAN\Desktop\C#\Tareas\Numeros primos\Numeros primos\obj\Debug\Numeros primos.csproj.AssemblyReference.cache
+C:\Users\RAN\Desktop\C#\Tareas\Numeros primos\Numeros primos\obj\Debug\Numeros primos.csproj.CoreCompileInputs.cache
+C:\Users\RAN\Desktop\C#\Tareas\Numeros primos\Numeros primos\bin\Debug\Numeros primos.exe.config
+C:\Users\RAN\Desktop\C#\Tareas\Numeros primos\Numeros primos\bin\Debug\Numeros primos.exe
+C:\Users\RAN\Desktop\C#\Tareas\Numeros primos\Numeros primos\bin\Debug\Numeros primos.pdb
+C:\Users\RAN\Desktop\C#\Tareas\Numeros primos\Numeros primos\obj\Debug\Numeros primos.exe
+C:\Users\RAN\Desktop\C#\Tareas\Numeros primos\Numeros primos\obj\Debug\Numeros primos.pdb
