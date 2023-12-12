@@ -1,0 +1,7 @@
+C:\Users\RAN\Desktop\C#\Tareas\De grasos a radiante\De grasos a radiante\bin\Debug\De grasos a radiante.exe.config
+C:\Users\RAN\Desktop\C#\Tareas\De grasos a radiante\De grasos a radiante\bin\Debug\De grasos a radiante.exe
+C:\Users\RAN\Desktop\C#\Tareas\De grasos a radiante\De grasos a radiante\bin\Debug\De grasos a radiante.pdb
+C:\Users\RAN\Desktop\C#\Tareas\De grasos a radiante\De grasos a radiante\obj\Debug\De grasos a radiante.csproj.AssemblyReference.cache
+C:\Users\RAN\Desktop\C#\Tareas\De grasos a radiante\De grasos a radiante\obj\Debug\De grasos a radiante.csproj.CoreCompileInputs.cache
+C:\Users\RAN\Desktop\C#\Tareas\De grasos a radiante\De grasos a radiante\obj\Debug\De grasos a radiante.exe
+C:\Users\RAN\Desktop\C#\Tareas\De grasos a radiante\De grasos a radiante\obj\Debug\De grasos a radiante.pdb
