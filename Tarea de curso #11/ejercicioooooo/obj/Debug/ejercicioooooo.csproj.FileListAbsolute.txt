@@ -1,0 +1,7 @@
+C:\Users\RAN\Desktop\C#\Tareas\ejercicioooooo\ejercicioooooo\bin\Debug\ejercicioooooo.exe.config
+C:\Users\RAN\Desktop\C#\Tareas\ejercicioooooo\ejercicioooooo\bin\Debug\ejercicioooooo.exe
+C:\Users\RAN\Desktop\C#\Tareas\ejercicioooooo\ejercicioooooo\bin\Debug\ejercicioooooo.pdb
+C:\Users\RAN\Desktop\C#\Tareas\ejercicioooooo\ejercicioooooo\obj\Debug\ejercicioooooo.csproj.AssemblyReference.cache
+C:\Users\RAN\Desktop\C#\Tareas\ejercicioooooo\ejercicioooooo\obj\Debug\ejercicioooooo.csproj.CoreCompileInputs.cache
+C:\Users\RAN\Desktop\C#\Tareas\ejercicioooooo\ejercicioooooo\obj\Debug\ejercicioooooo.exe
+C:\Users\RAN\Desktop\C#\Tareas\ejercicioooooo\ejercicioooooo\obj\Debug\ejercicioooooo.pdb
