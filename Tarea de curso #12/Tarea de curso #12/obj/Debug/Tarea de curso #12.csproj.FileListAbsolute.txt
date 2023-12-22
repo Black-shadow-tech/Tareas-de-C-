@@ -1,0 +1,7 @@
+C:\Users\RAN\Desktop\C#\Tareas-de-Cii-sharp\Tarea de curso #12\Tarea de curso #12\bin\Debug\Tarea de curso #12.exe.config
+C:\Users\RAN\Desktop\C#\Tareas-de-Cii-sharp\Tarea de curso #12\Tarea de curso #12\bin\Debug\Tarea de curso #12.exe
+C:\Users\RAN\Desktop\C#\Tareas-de-Cii-sharp\Tarea de curso #12\Tarea de curso #12\bin\Debug\Tarea de curso #12.pdb
+C:\Users\RAN\Desktop\C#\Tareas-de-Cii-sharp\Tarea de curso #12\Tarea de curso #12\obj\Debug\Tarea de curso #12.csproj.AssemblyReference.cache
+C:\Users\RAN\Desktop\C#\Tareas-de-Cii-sharp\Tarea de curso #12\Tarea de curso #12\obj\Debug\Tarea de curso #12.csproj.CoreCompileInputs.cache
+C:\Users\RAN\Desktop\C#\Tareas-de-Cii-sharp\Tarea de curso #12\Tarea de curso #12\obj\Debug\Tarea de curso #12.exe
+C:\Users\RAN\Desktop\C#\Tareas-de-Cii-sharp\Tarea de curso #12\Tarea de curso #12\obj\Debug\Tarea de curso #12.pdb
